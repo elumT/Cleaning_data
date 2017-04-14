@@ -1,7 +1,3 @@
-<<<<<<< d956f0d8a2b35ef087892985b25b0565cb1e2866
-# Getting_and_cleaning_data
-Course_project
-=======
 The repository contains files for the final project of the course "Getting and cleaning data". 
 
 The run_analisys.R does the following:
@@ -14,4 +10,4 @@ The run_analisys.R does the following:
 
 The file tidy_data.md contains the final dataset.
 The file Codebook.txt contains description of variables in the tidy_data.txt.
->>>>>>> First commit
+
